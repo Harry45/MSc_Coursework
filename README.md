@@ -1,7 +1,7 @@
 <h1>NASSP Coursework Codes</h1>
 
 <section>
-	<p align="justify">This repository contains all the codes I have written for the coursework component of <a href="http://www.star.ac.za/">NASSP</a>.</p>
+	<p align="justify">This repository contains all the codes I have written for the coursework component of <a href="http://www.star.ac.za/">NASSP</a>. I am still updating this repository.</p>
 
 
 <!--
